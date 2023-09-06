@@ -18,12 +18,15 @@
   />
 </p>
 
-- 👨‍💻 I’m currently working on [Sleep health
-calculator](https://github.com/RobertoPatino1/Sleep-Health-Calculator) - 🤓 I’m
-currently learning **Flutter, React Native and Docker** - 💬 Ask me about **Data
-Structures and algorithms, Object Oriented Programming, Operating Systems and
-Game development!** - 📫 How to reach me **rpatino1221@gmail.com** - ⚡ Fun fact
-**I'm passionate about sharing knowledge and helping others learn**
+- 👨‍💻 I’m currently working on [Sleep health calculator](https://github.com/RobertoPatino1/Sleep-Health-Calculator)
+
+- 🤓 I’m currently learning **Flutter, React Native and Docker**
+
+- 💬 Ask me about **Data Structures and algorithms, Object Oriented Programming, Operating Systems and Game development!**
+
+- 📫 How to reach me **rpatino1221@gmail.com**
+
+- ⚡ Fun fact **I'm passionate about sharing knowledge and helping others learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
