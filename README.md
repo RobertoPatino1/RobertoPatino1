@@ -6,7 +6,7 @@
 
 <img
   align="right"
-  src="http://televandalist.com/post/120317788349"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgxMGRpanN2MGdrbW5hNHF6c29venNyOXlha2U4NHFpMnl1ZHB5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.gif"
   alt="codingGif"
   width="400"
 />
