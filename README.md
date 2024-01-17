@@ -6,7 +6,7 @@
 
 <img
   align="right"
-  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
+  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
   alt="codingGif"
   width="400"
 />
