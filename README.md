@@ -18,7 +18,7 @@
   />
 </p>
 
-- 👨‍💻 I’m currently working on [run_it](https://github.com/RobertoPatino1/run_it)
+- 👨‍💻 I’m currently working on [CloneChirp](https://github.com/RobertoPatino1/CloneChirp)
 
 - 🤓 I’m currently learning **Flutter, React Native and Docker**
 
