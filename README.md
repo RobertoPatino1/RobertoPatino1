@@ -3,7 +3,6 @@
   I'm a dedicated computer science student from Ecuador , fueled by a passion
   for technology and a drive to improve myself
 </h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Edg3Runn3r.png" alt="TryHackMe">
 <img
   align="right"
   src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
@@ -20,15 +19,16 @@
 
 - 👨‍💻 I’m currently working on [CloneChirp](https://github.com/RobertoPatino1/CloneChirp)
 
-- 🤓 I’m currently learning **Flutter, React Native and Docker**
+- 🤓 I’m currently learning **Offensive Security, Malware Development and Fullstack Development**
 
-- 💬 Ask me about **Data Structures and algorithms, Object Oriented Programming, Operating Systems and Game development!**
+- 💬 Ask me about **Data Structures and algorithms, Object Oriented Programming, Operative Systems and Game development!**
 
 - 📫 How to reach me **rpatino1221@gmail.com**
 
 - ⚡ Fun fact **I'm passionate about sharing knowledge and helping others learn**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Edg3Runn3r.png" alt="TryHackMe">
 <p align="left">
 <a href="https://twitter.com/roberto_patino1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roberto_patino1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roberto-andres-patino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto-andres-patino" height="30" width="40" /></a>
