@@ -3,7 +3,7 @@
   I'm a dedicated computer science student from Ecuador , fueled by a passion
   for technology and a drive to improve myself
 </h3>
-
+<script src="https://tryhackme.com/badge/782509"></script>
 <img
   align="right"
   src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
