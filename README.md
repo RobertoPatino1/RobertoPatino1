@@ -28,7 +28,7 @@
 - ⚡ Fun fact **I'm passionate about sharing knowledge and helping others learn**
 
 <h3 align="left">Connect with me:</h3>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=782509" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/theg3ntlem4n.png" alt="Your Image Badge" />
 <p align="left">
 <a href="https://twitter.com/roberto_patino1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roberto_patino1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roberto-andres-patino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto-andres-patino" height="30" width="40" /></a>
